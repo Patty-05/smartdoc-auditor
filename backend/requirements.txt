@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+pandas
+scikit-learn
+pdfminer.six
+python-docx
+PyMuPDF
+python-multipart
+langdetect
